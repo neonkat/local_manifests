@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project path="device/xiaomi/kenzo" name="kenzo-tree/android_device_xiaomi_kenzo" remote="github" revision="cm-13.0" />
-  <project path="vendor/xiaomi/kenzo" name="kenzo-tree/android_vendor_xiaomi_kenzo" remote="github" revision="cm-13.0" />
-  <project path="kernel/xiaomi/kenzo" name="kenzo-tree/android_kernel_xiaomi_kenzo" remote="github" revision="cm-13.0" />
+  <project path="vendor/xiaomi/kenzo" name="kenzo-tree/android_vendor_xiaomi_kenzo" remote="github" revision="master" />
+  <project path="kernel/xiaomi/kenzo" name="kenzo-tree/android_kernel_xiaomi_kenzo" remote="github" revision="LA.BR.1.3.3_rb2.15" />
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-13.0" />
 </manifest>
