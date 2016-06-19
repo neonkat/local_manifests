@@ -1,11 +1,11 @@
 <!--ms013g device tree-->
 <manifest>
-<project name="aosp-ms013g/android_vendor_samsung_ms013g_unsplit" path="vendor/samsung/ms013g" remote="github" revision="cm-13.0"/>
-<project name="aosp-ms013g/android_device_samsung_ms013g_unsplit" path="device/samsung/ms013g" remote="github" revision="slim"/>
+<project name="ms013g-tree/android_vendor_samsung_ms013g_unsplit" path="vendor/samsung/ms013g" remote="github" revision="cm-13.0"/>
+<project name="ms013g-tree/android_device_samsung_ms013g_unsplit" path="device/samsung/ms013g" remote="github" revision="slim"/>
 <project name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="cm-13.0"/>
 <project path="external/stlport" name="CyanogenMod/android_external_stlport" remote="github" revision="cm-13.0" />
 <project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" remote="github" revision="cm-13.0" />
 <project name="aosp-ms013g/android_kernel_samsung_ms013g" path="kernel/samsung/ms013g" remote="github" revision="cm-13.0"/>
 <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-13.0"/>
-<project name="aosp-ms013g/android_device_samsung_msm8226-common" path="device/samsung/msm8226-common" remote="github" revision="cm-13.0"/>
+<project name="ms013g-tree/android_device_samsung_msm8226-common" path="device/samsung/msm8226-common" remote="github" revision="cm-13.0"/>
 </manifest>
