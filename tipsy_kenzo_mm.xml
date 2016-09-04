@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="bitbucket" fetch="https://bitbucket.org/" />
-  <project path="device/xiaomi/kenzo" name="neonkat/android_device_xiaomi_kenzo" remote="github" revision="m" />
+  <project path="device/xiaomi/kenzo" name="neonkat/android_device_xiaomi_kenzo" remote="github" revision="tipsy" />
   <project path="vendor/xiaomi/kenzo" name="TheMuppets/proprietary_vendor_xiaomi" remote="github" revision="cm-13.0" />
   <project path="kernel/xiaomi/msm8956" name="CyanogenMod/android_kernel_xiaomi_msm8956" remote="github" revision="cm-13.0" />
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-13.0" />
