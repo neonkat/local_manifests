@@ -12,4 +12,5 @@
   <project path="external/libnetfilter_conntrack" name="CyanogenMod/android_external_libnetfilter_conntrack" remote="github" revision="cm-14.0" />
   <project path="hardware/cyanogen" name="CyanogenMod/android_hardware_cyanogen" remote="github" revision="cm-14.0" />
   <project path="external/dhcpcd" name="CyanogenMod/android_external_dhcpcd" remote="github" revision="cm-14.0" />
+  <project path="device/qcom/sepolicy" name="CyanogenMod/android_external_dhcpcd" remote="github" revision="cm-14.0" />
 </manifest>
