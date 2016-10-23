@@ -5,4 +5,5 @@
   <project path="vendor/xiaomi" name="TheMuppets/proprietary_vendor_xiaomi" remote="github" revision="cm-14.0" />
   <project path="kernel/xiaomi/msm8956" name="CyanogenMod/android_kernel_xiaomi_msm8956" remote="github" revision="cm-14.0" />
   <project path="hardware/cyanogen" name="CyanogenMod/android_hardware_cyanogen" remote="github" revision="cm-14.0" />
+  <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-UB-4.9" name="DespairFactor/aarch64-linux-android-4.9-kernel" remote="bitbucket" revision="master" />
 </manifest>
