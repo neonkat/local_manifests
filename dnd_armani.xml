@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project path="kernel/xiaomi/armani" name="LineageOS/android_kernel_xiaomi_armani" remote="github" revision="cm-14.1" />
+<project path="device/xiaomi/armani" name="neonkat/device_xiaomi_armani" remote="github" revision="n" />
+<project path="vendor/xiaomi/armani" name="TheMuppets/proprietary_vendor_xiaomi/armani" remote="github" revision="cm-14.1" />
+<project path="vendor/qcom/binaries" name="TheMuppets/proprietary_vendor_qcom_binaries" remote="github" revision="cm-14.1" />
+</manifest>
